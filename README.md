@@ -1,2 +1,2 @@
-# Leanear-Regression-Lab-1
-Python tutorial and useful functions
+# Deeplearning.ai Labs
+1) Python tutorial and useful functions
